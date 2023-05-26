@@ -1,6 +1,6 @@
 import "./css/common.css ";
 import { fetchPixabay } from "./js/fetchCountries";
-import { createMarkupCards } from "./createMarkupСards";
+import { createMarkupCards} from "./createMarkup";
 import { Notify } from "notiflix/build/notiflix-notify-aio";
 
 import SimpleLightbox from "simplelightbox";
